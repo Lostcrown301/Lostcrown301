@@ -60,10 +60,6 @@ I'm a Computer Science Engineering student passionate about building software th
 
 ## 📌 Current Projects
 
-### 🏨 Hostel Allotment System
-
-A system that groups students based on geographical proximity to reduce cultural and language barriers.
-
 ### 🍅 Productivity App
 
 A Flutter application combining a To-Do List and Pomodoro Timer.
@@ -94,9 +90,9 @@ A FastAPI + Supabase authentication system with JWT-based security.
 
 ## 🤝 Let's Connect
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Portfolio: https://YOUR_PORTFOLIO
+* GitHub: https://github.com/Lostcrown301
+* LinkedIn: https://www.linkedin.com/in/ashutosh-shukla-9218b5328/
+* Portfolio: https://ashutosh-shukla-portfolio.vercel.app/
 
 ---
 
