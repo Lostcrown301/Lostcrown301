@@ -86,8 +86,6 @@ A FastAPI + Supabase authentication system with JWT-based security.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostcrown301\&layout=compact)
 
-<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-
 ---
 
 ## 🤝 Let's Connect
@@ -101,3 +99,6 @@ A FastAPI + Supabase authentication system with JWT-based security.
 ### ✨ Motto
 
 > "Build. Learn. Improve. Repeat."
+
+
+![](https://komarev.com/ghpvc/?username=Lostcrown301&color=blue)
