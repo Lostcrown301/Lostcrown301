@@ -1,13 +1,13 @@
 # Ashutosh Shukla
 
-2nd year CSE student. Mostly living in the backend these days - APIs, auth, databases, the stuff that doesn't have a UI.
+2nd year CSE student. Mostly living in the backend these days — APIs, auth, databases, the stuff that doesn't have a UI.
 
 ---
 
 ## About
 
 - CSE student, currently prepping for internships and placements
-- Started full stack, drifted toward backend - that's where I'm putting most of my time now
+- Started full stack, drifted toward backend — that's where I'm putting most of my time now
 - Learning Flutter & Dart on the side for mobile
 - Into system design and how backend architecture actually holds up at scale
 - Like turning half-formed ideas into working products more than following tutorials
@@ -16,19 +16,19 @@
 
 ## Stack
 
-**Backend (main focus)**
+**Backend (main focus)**  
 Node.js · Express.js · FastAPI · JWT auth
 
-**Languages**
+**Languages**  
 JavaScript · Python · Java · C++ · Dart
 
-**Databases**
+**Databases**  
 PostgreSQL · Supabase
 
-**Frontend**
+**Frontend**  
 React · Vite · Tailwind CSS · HTML/CSS
 
-**Tools**
+**Tools**  
 Git · GitHub · Postman · VS Code · Vercel
 
 ---
@@ -39,14 +39,15 @@ System design, backend architecture, Node.js internals, cloud deployment, Flutte
 
 ---
 
-## GitHub stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lostcrown301&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostcrown301&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lostcrown301&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostcrown301&layout=compact&theme=dark)
 
 ---
 
-## Reach me
+## Reach Me
 
 - GitHub: [Lostcrown301](https://github.com/Lostcrown301)
 - LinkedIn: [ashutosh-shukla](https://www.linkedin.com/in/ashutosh-shukla-9218b5328/)
@@ -56,4 +57,4 @@ System design, backend architecture, Node.js internals, cloud deployment, Flutte
 
 Build. Learn. Improve. Repeat.
 
-![](https://komarev.com/ghpvc/?username=Lostcrown301&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Lostcrown301&color=blue)
