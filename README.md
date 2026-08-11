@@ -1,104 +1,69 @@
-# Hi there 👋, I'm Ashutosh
+# Ashutosh Shukla
 
-### 💻 Computer Science Student | Full Stack Developer | Problem Solver
-
-I'm a Computer Science Engineering student passionate about building software that solves real-world problems. I enjoy developing web and mobile applications, learning new technologies, and turning ideas into products.
+2nd year CSE student. Mostly living in the backend these days — APIs, auth, databases, the stuff that doesn't have a UI.
 
 ---
 
-## 🚀 About Me
+## About
 
-* 🎓 2nd Year CSE Student
-* 📱 Learning Flutter & Dart
-* 🌐 Exploring Full Stack Development
-* ⚡ Building projects with React, FastAPI, Node.js, and Supabase
-* 🧠 Interested in Software Engineering, Startups, and Product Development
-* 🎯 Currently preparing for internships and placements
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-* Java
-* JavaScript
-* TypeScript
-* Python
-* Dart
-* C++
-
-### Frontend
-
-* React
-* Vite
-* Tailwind CSS
-* HTML5
-* CSS3
-
-### Backend
-
-* Node.js
-* Express.js
-* FastAPI
-
-### Database
-
-* PostgreSQL
-* Supabase
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Vercel
+- CSE student, currently prepping for internships/placements
+- Started full stack, drifted toward backend — that's where I'm putting most of my time now
+- Learning Flutter/Dart on the side for mobile
+- Into system design and how backend architecture actually holds up at scale
+- Like turning half-formed ideas into working products more than following tutorials
 
 ---
 
-## 📌 Current Projects
+## Stack
 
-### 🍅 Productivity App
+**Backend (main focus)**
+Node.js · Express.js · FastAPI · JWT auth
 
-A Flutter application combining a To-Do List and Pomodoro Timer.
+**Languages**
+JavaScript · TypeScript · Python · Java · C++ · Dart
 
-### 🔐 Authentication API
+**Databases**
+PostgreSQL · MongoDB · Supabase
 
-A FastAPI + Supabase authentication system with JWT-based security.
+**Frontend**
+React · Vite · Tailwind CSS · HTML/CSS
 
----
-
-## 🌱 Currently Learning
-
-* Flutter Development
-* Node.js
-* System Design
-* Backend Architecture
-* Cloud Deployment
+**Tools**
+Git · GitHub · Postman · VS Code · Vercel
 
 ---
 
-## 📈 GitHub Stats
+## Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lostcrown301\&show_icons=true)
+**Authentication API**
+FastAPI + Supabase, JWT-based auth from scratch — built this to actually understand auth instead of just importing a library for it.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostcrown301\&layout=compact)
-
----
-
-## 🤝 Let's Connect
-
-* GitHub: https://github.com/Lostcrown301
-* LinkedIn: https://www.linkedin.com/in/ashutosh-shukla-9218b5328/
-* Portfolio: https://ashutosh-shukla-portfolio.vercel.app/
+**Productivity App**
+Flutter app combining a to-do list with a Pomodoro timer.
 
 ---
 
-### ✨ Motto
+## Currently learning
 
-> "Build. Learn. Improve. Repeat."
+System design, backend architecture, Node.js internals, cloud deployment, Flutter.
 
+---
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lostcrown301&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostcrown301&layout=compact)
+
+---
+
+## Reach me
+
+- GitHub: [Lostcrown301](https://github.com/Lostcrown301)
+- LinkedIn: [ashutosh-shukla](https://www.linkedin.com/in/ashutosh-shukla-9218b5328/)
+- Portfolio: [ashutosh-shukla-portfolio.vercel.app](https://ashutosh-shukla-portfolio.vercel.app/)
+
+---
+
+Build. Learn. Improve. Repeat.
 
 ![](https://komarev.com/ghpvc/?username=Lostcrown301&color=blue)
