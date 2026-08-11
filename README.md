@@ -1,14 +1,14 @@
 # Ashutosh Shukla
 
-2nd year CSE student. Mostly living in the backend these days — APIs, auth, databases, the stuff that doesn't have a UI.
+2nd year CSE student. Mostly living in the backend these days - APIs, auth, databases, the stuff that doesn't have a UI.
 
 ---
 
 ## About
 
-- CSE student, currently prepping for internships/placements
-- Started full stack, drifted toward backend — that's where I'm putting most of my time now
-- Learning Flutter/Dart on the side for mobile
+- CSE student, currently prepping for internships and placements
+- Started full stack, drifted toward backend - that's where I'm putting most of my time now
+- Learning Flutter & Dart on the side for mobile
 - Into system design and how backend architecture actually holds up at scale
 - Like turning half-formed ideas into working products more than following tutorials
 
@@ -20,26 +20,16 @@
 Node.js · Express.js · FastAPI · JWT auth
 
 **Languages**
-JavaScript · TypeScript · Python · Java · C++ · Dart
+JavaScript · Python · Java · C++ · Dart
 
 **Databases**
-PostgreSQL · MongoDB · Supabase
+PostgreSQL · Supabase
 
 **Frontend**
 React · Vite · Tailwind CSS · HTML/CSS
 
 **Tools**
 Git · GitHub · Postman · VS Code · Vercel
-
----
-
-## Projects
-
-**Authentication API**
-FastAPI + Supabase, JWT-based auth from scratch — built this to actually understand auth instead of just importing a library for it.
-
-**Productivity App**
-Flutter app combining a to-do list with a Pomodoro timer.
 
 ---
 
